@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Python, lua
 - 💞️ I’m looking to collaborate on IDK
 - 🛡️ Passed: Introduction to cybersecurity
+- 🏴 3 unity projects
+- 🏇 Simple FiveM Scripts
+- 🛌 Minecraft "DEV"😂
 - 📫 How to reach me? Discord: Solider#9559 or e-mail: mdyl245@gmail.com
 
 <!---
