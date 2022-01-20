@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solider1337
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Python, lua
+- 🌱 I’m currently learning C++, HTML, CSS, Python, Lua
 - 💞️ I’m looking to collaborate on IDK
 - 🛡️ Passed: Introduction to cybersecurity
 - 🏴 3 unity projects
