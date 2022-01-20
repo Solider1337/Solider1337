@@ -6,7 +6,7 @@
 - 🏴 3 unity projects
 - 🏇 Simple FiveM Scripts
 - 🛌 Minecraft "DEV"😂
-- 📫 How to reach me? Discord: Solider#9559 or e-mail: mdyl245@gmail.com
+- 📫 How to reach me? Discord: Solider#1337 or e-mail: mdyl245@gmail.com
 
 <!---
 Solider1337/Solider1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
