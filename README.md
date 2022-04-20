@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @Solider1337
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning C++, HTML, CSS, Python, Lua
+- 🌱 I’m currently learning C++, Visual C++, Lua, networking and sysdmin skills. 
 - 💞️ I’m looking to collaborate on IDK
-- 🛡️ Passed: Introduction to cybersecurity
-- 🏴 3 unity projects
+- 🛡️ Passed: CISCO Introduction to Cybersecurity
+- 🏴 little skill in Unity and UE4
 - 🏇 Simple FiveM Scripts
-- 🛌 Minecraft "DEV"😂
-- 📫 How to reach me? Discord: Solider#1337 or e-mail: mdyl245@gmail.com
+- 🛌 Solutions for minecraft servers
+- 😆 2018 Scratch Programming World Champion.
+- 📫 How to reach me? Discord: Solider#3791 or e-mail: mdyl245@gmail.com (🇵🇱 or eng).
 
 <!---
 Solider1337/Solider1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
