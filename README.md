@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Solider1337
 - 👀 I’m interested in IT
 - 📱 Mobile App Developer
-- 🌱 I’m currently learning Dart[Flutter], C++, Visual C++, Lua, networking and sysdmin skills. 
+- 🌱 I’m currently learning Dart[Flutter], C++, Python, web tech., networking and sysdmin skills. 
 - 💞️ I’m looking to collaborate on IDK
-- 🛡️ Passed: CISCO Introduction to Cybersecurity + Visual C++
+- 🛡️ Passed: CISCO Introduction to Cybersecurity, Visual C++, Flutter
 - 🏴 little skill in Unity and UE4
 - 🏇 Simple FiveM Scripts
 - 🛌 Solutions for minecraft servers
